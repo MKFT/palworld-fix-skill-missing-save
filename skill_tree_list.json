@@ -1,0 +1,1235 @@
+{
+  "sheepball": [
+    "EPalWazaID::Unique_SheepBall_Roll",
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::SelfDestruct",
+    "EPalWazaID::ThunderBall",
+    "EPalWazaID::PowerBall",
+    "EPalWazaID::HyperBeam"
+  ],
+  "pinkcat": [
+    "EPalWazaID::Unique_PinkCat_CatPunch",
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::MudShot",
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::WindCutter",
+    "EPalWazaID::SeedMachinegun",
+    "EPalWazaID::HyperBeam"
+  ],
+  "chickenpal": [
+    "EPalWazaID::Unique_ChickenPal_ChickenPeck",
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::SelfDestruct",
+    "EPalWazaID::GrassTornado",
+    "EPalWazaID::SandTornado",
+    "EPalWazaID::FlareTornado"
+  ],
+  "carbunclo": [
+    "EPalWazaID::WindCutter",
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::SeedMachinegun",
+    "EPalWazaID::PowerBall",
+    "EPalWazaID::RootAttack",
+    "EPalWazaID::SolarBeam"
+  ],
+  "kitsunebi": [
+    "EPalWazaID::FireBlast",
+    "EPalWazaID::MudShot",
+    "EPalWazaID::FireSeed",
+    "EPalWazaID::FlareArrow",
+    "EPalWazaID::Flamethrower",
+    "EPalWazaID::GhostFlame",
+    "EPalWazaID::FireBall"
+  ],
+  "blueplatypus": [
+    "EPalWazaID::WaterGun",
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::AquaJet",
+    "EPalWazaID::IceMissile",
+    "EPalWazaID::BubbleShot",
+    "EPalWazaID::WaterBall",
+    "EPalWazaID::HydroPump"
+  ],
+  "eleccat": [
+    "EPalWazaID::SpreadPulse",
+    "EPalWazaID::MudShot",
+    "EPalWazaID::ElecWave",
+    "EPalWazaID::ThunderBall",
+    "EPalWazaID::ThreeThunder",
+    "EPalWazaID::LineThunder",
+    "EPalWazaID::Thunderbolt"
+  ],
+  "monkey": [
+    "EPalWazaID::WindCutter",
+    "EPalWazaID::MudShot",
+    "EPalWazaID::SeedMachinegun",
+    "EPalWazaID::SeedMine",
+    "EPalWazaID::ThrowRock",
+    "EPalWazaID::GrassTornado",
+    "EPalWazaID::SolarBeam"
+  ],
+  "flamebambi": [
+    "EPalWazaID::FireBlast",
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::FireSeed",
+    "EPalWazaID::FlareArrow",
+    "EPalWazaID::FlareTornado",
+    "EPalWazaID::Inferno",
+    "EPalWazaID::FireBall"
+  ],
+  "penguin": [
+    "EPalWazaID::IceMissile",
+    "EPalWazaID::AquaJet",
+    "EPalWazaID::WaterGun",
+    "EPalWazaID::IceBlade",
+    "EPalWazaID::BlizzardLance",
+    "EPalWazaID::IcicleThrow",
+    "EPalWazaID::HydroPump"
+  ],
+  "captainpenguin": [
+    "EPalWazaID::WaterGun",
+    "EPalWazaID::BlizzardLance",
+    "EPalWazaID::Unique_CaptainPenguin_BodySlide",
+    "EPalWazaID::FrostBreath",
+    "EPalWazaID::WaterBall",
+    "EPalWazaID::IcicleThrow",
+    "EPalWazaID::HydroPump"
+  ],
+  "hedgehog": [
+    "EPalWazaID::ElecWave",
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::ThunderBall",
+    "EPalWazaID::PowerBall",
+    "EPalWazaID::ThreeThunder",
+    "EPalWazaID::LineThunder",
+    "EPalWazaID::Thunderbolt"
+  ],
+  "hedgehog_ice": [
+    "EPalWazaID::IceMissile",
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::BlizzardLance",
+    "EPalWazaID::PowerBall",
+    "EPalWazaID::IceBlade",
+    "EPalWazaID::FrostBreath",
+    "EPalWazaID::IcicleThrow"
+  ],
+  "plantslime": [
+    "EPalWazaID::MudShot",
+    "EPalWazaID::WindCutter",
+    "EPalWazaID::StoneShotgun",
+    "EPalWazaID::SeedMachinegun",
+    "EPalWazaID::SeedMine",
+    "EPalWazaID::SandTornado",
+    "EPalWazaID::SolarBeam"
+  ],
+  "cutefox": [
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::MudShot",
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::WindCutter",
+    "EPalWazaID::SeedMachinegun",
+    "EPalWazaID::PowerBall",
+    "EPalWazaID::HyperBeam"
+  ],
+  "wizardowl": [
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::DarkBall",
+    "EPalWazaID::DarkWave",
+    "EPalWazaID::SandTornado",
+    "EPalWazaID::GhostFlame",
+    "EPalWazaID::ShadowBall",
+    "EPalWazaID::DarkLaser"
+  ],
+  "ganesha": [
+    "EPalWazaID::WaterGun",
+    "EPalWazaID::AquaJet",
+    "EPalWazaID::MudShot",
+    "EPalWazaID::BubbleShot",
+    "EPalWazaID::AcidRain",
+    "EPalWazaID::WaterBall",
+    "EPalWazaID::HydroPump"
+  ],
+  "negativekoala": [
+    "EPalWazaID::PoisonShot",
+    "EPalWazaID::MudShot",
+    "EPalWazaID::DarkBall",
+    "EPalWazaID::IceMissile",
+    "EPalWazaID::DarkWave",
+    "EPalWazaID::ShadowBall",
+    "EPalWazaID::DarkLaser"
+  ],
+  "woolfox": [
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::MudShot",
+    "EPalWazaID::SpreadPulse",
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::ElecWave",
+    "EPalWazaID::PowerBall",
+    "EPalWazaID::Thunderbolt"
+  ],
+  "dreamdemon": [
+    "EPalWazaID::DarkBall",
+    "EPalWazaID::PoisonShot",
+    "EPalWazaID::DarkWave",
+    "EPalWazaID::FrostBreath",
+    "EPalWazaID::GhostFlame",
+    "EPalWazaID::ShadowBall",
+    "EPalWazaID::DarkLaser"
+  ],
+  "boar": [
+    "EPalWazaID::Unique_Boar_Tackle",
+    "EPalWazaID::MudShot",
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::StoneShotgun",
+    "EPalWazaID::PowerBall",
+    "EPalWazaID::RockLance",
+    "EPalWazaID::HyperBeam"
+  ],
+  "nightfox": [
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::DarkBall",
+    "EPalWazaID::DarkWave",
+    "EPalWazaID::PowerBall",
+    "EPalWazaID::GhostFlame",
+    "EPalWazaID::ShadowBall",
+    "EPalWazaID::DarkLaser"
+  ],
+  "cutemole": [
+    "EPalWazaID::MudShot",
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::StoneShotgun",
+    "EPalWazaID::ThrowRock",
+    "EPalWazaID::PowerBall",
+    "EPalWazaID::SandTornado",
+    "EPalWazaID::RockLance"
+  ],
+  "negativeoctopus": [
+    "EPalWazaID::AquaJet",
+    "EPalWazaID::PoisonShot",
+    "EPalWazaID::DarkBall",
+    "EPalWazaID::DarkWave",
+    "EPalWazaID::AcidRain",
+    "EPalWazaID::ShadowBall",
+    "EPalWazaID::DarkLaser"
+  ],
+  "bastet": [
+    "EPalWazaID::MudShot",
+    "EPalWazaID::DarkBall",
+    "EPalWazaID::DarkWave",
+    "EPalWazaID::SandTornado",
+    "EPalWazaID::GhostFlame",
+    "EPalWazaID::ShadowBall",
+    "EPalWazaID::DarkLaser"
+  ],
+  "bastet_ice": [
+    "EPalWazaID::IceMissile",
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::MudShot",
+    "EPalWazaID::IceBlade",
+    "EPalWazaID::BlizzardLance",
+    "EPalWazaID::FrostBreath",
+    "EPalWazaID::IcicleThrow"
+  ],
+  "flyingmanta": [
+    "EPalWazaID::AquaJet",
+    "EPalWazaID::WaterGun",
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::BubbleShot",
+    "EPalWazaID::SeedMachinegun",
+    "EPalWazaID::WaterBall",
+    "EPalWazaID::HydroPump"
+  ],
+  "garm": [
+    "EPalWazaID::Unique_Garm_Bite",
+    "EPalWazaID::MudShot",
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::FireBlast",
+    "EPalWazaID::PowerBall",
+    "EPalWazaID::HyperBeam"
+  ],
+  "colorfulbird": [
+    "EPalWazaID::SelfDestruct",
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::SelfExplosion",
+    "EPalWazaID::SandTornado",
+    "EPalWazaID::PowerBall",
+    "EPalWazaID::HyperBeam"
+  ],
+  "flowerrabbit": [
+    "EPalWazaID::WindCutter",
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::AquaJet",
+    "EPalWazaID::SeedMachinegun",
+    "EPalWazaID::BubbleShot",
+    "EPalWazaID::GrassTornado",
+    "EPalWazaID::SolarBeam"
+  ],
+  "cowpal": [
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::MudShot",
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::StoneShotgun",
+    "EPalWazaID::ThrowRock",
+    "EPalWazaID::PowerBall",
+    "EPalWazaID::HyperBeam"
+  ],
+  "littlebriarrose": [
+    "EPalWazaID::WindCutter",
+    "EPalWazaID::SeedMachinegun",
+    "EPalWazaID::IceMissile",
+    "EPalWazaID::GrassTornado",
+    "EPalWazaID::BlizzardLance",
+    "EPalWazaID::RootAttack",
+    "EPalWazaID::SolarBeam"
+  ],
+  "sharkkid": [
+    "EPalWazaID::AquaJet",
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::WaterGun",
+    "EPalWazaID::BubbleShot",
+    "EPalWazaID::IceBlade",
+    "EPalWazaID::WaterBall",
+    "EPalWazaID::HydroPump"
+  ],
+  "sharkkid_fire": [
+    "EPalWazaID::FireBlast",
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::FireSeed",
+    "EPalWazaID::FlareArrow",
+    "EPalWazaID::LineThunder",
+    "EPalWazaID::FireBall",
+    "EPalWazaID::Inferno"
+  ],
+  "windchimes": [
+    "EPalWazaID::MudShot",
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::WindCutter",
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::PowerBall",
+    "EPalWazaID::SandTornado",
+    "EPalWazaID::RockLance"
+  ],
+  "windchimes_ice": [
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::IceMissile",
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::IceBlade",
+    "EPalWazaID::BlizzardLance",
+    "EPalWazaID::FrostBreath",
+    "EPalWazaID::IcicleThrow"
+  ],
+  "grasspanda": [
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::SeedMachinegun",
+    "EPalWazaID::ThrowRock",
+    "EPalWazaID::Unique_GrassPanda_MusclePunch",
+    "EPalWazaID::SeedMine",
+    "EPalWazaID::RootAttack",
+    "EPalWazaID::SolarBeam"
+  ],
+  "grasspanda_electric": [
+    "EPalWazaID::SpreadPulse",
+    "EPalWazaID::ElecWave",
+    "EPalWazaID::LineThunder",
+    "EPalWazaID::Unique_GrassPanda_Electric_ElectricPunch",
+    "EPalWazaID::ThreeThunder",
+    "EPalWazaID::LightningStrike",
+    "EPalWazaID::Thunderbolt"
+  ],
+  "sweetssheep": [
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::MudShot",
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::WindCutter",
+    "EPalWazaID::BubbleShot",
+    "EPalWazaID::PowerBall",
+    "EPalWazaID::HyperBeam"
+  ],
+  "berrygoat": [
+    "EPalWazaID::WindCutter",
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::MudShot",
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::GrassTornado",
+    "EPalWazaID::RootAttack",
+    "EPalWazaID::SolarBeam"
+  ],
+  "alpaca": [
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::Unique_Alpaca_Tackle",
+    "EPalWazaID::MudShot",
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::ElecWave",
+    "EPalWazaID::PowerBall",
+    "EPalWazaID::HyperBeam"
+  ],
+  "deer": [
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::Unique_Deer_PushupHorn",
+    "EPalWazaID::StoneShotgun",
+    "EPalWazaID::ThrowRock",
+    "EPalWazaID::PowerBall",
+    "EPalWazaID::RockLance",
+    "EPalWazaID::HyperBeam"
+  ],
+  "deer_ground": [
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::Unique_Deer_PushupHorn",
+    "EPalWazaID::StoneShotgun",
+    "EPalWazaID::ThrowRock",
+    "EPalWazaID::PowerBall",
+    "EPalWazaID::SandTornado",
+    "EPalWazaID::RockLance"
+  ],
+  "hawkbird": [
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::Unique_HawkBird_Storm",
+    "EPalWazaID::WindCutter",
+    "EPalWazaID::PowerBall",
+    "EPalWazaID::SandTornado",
+    "EPalWazaID::GrassTornado",
+    "EPalWazaID::HyperBeam"
+  ],
+  "pinkrabbit": [
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::IceMissile",
+    "EPalWazaID::IcicleThrow",
+    "EPalWazaID::PowerBall",
+    "EPalWazaID::BlizzardLance",
+    "EPalWazaID::HyperBeam"
+  ],
+  "baphomet": [
+    "EPalWazaID::FireBlast",
+    "EPalWazaID::FireSeed",
+    "EPalWazaID::FlareArrow",
+    "EPalWazaID::Unique_Baphomet_SwallowKite",
+    "EPalWazaID::DarkWave",
+    "EPalWazaID::FireBall",
+    "EPalWazaID::Inferno"
+  ],
+  "baphomet_dark": [
+    "EPalWazaID::FireBlast",
+    "EPalWazaID::FireSeed",
+    "EPalWazaID::FlareArrow",
+    "EPalWazaID::Unique_Baphomet_SwallowKite",
+    "EPalWazaID::DarkWave",
+    "EPalWazaID::FireBall",
+    "EPalWazaID::Inferno"
+  ],
+  "cutebutterfly": [
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::WindCutter",
+    "EPalWazaID::PoisonFog",
+    "EPalWazaID::SandTornado",
+    "EPalWazaID::SeedMine",
+    "EPalWazaID::GrassTornado",
+    "EPalWazaID::SolarBeam"
+  ],
+  "flamebuffalo": [
+    "EPalWazaID::FireBlast",
+    "EPalWazaID::Unique_FlameBuffalo_FlameHorn",
+    "EPalWazaID::FireSeed",
+    "EPalWazaID::FlareArrow",
+    "EPalWazaID::Flamethrower",
+    "EPalWazaID::Inferno",
+    "EPalWazaID::FireBall"
+  ],
+  "lazycatfish": [
+    "EPalWazaID::MudShot",
+    "EPalWazaID::WaterGun",
+    "EPalWazaID::StoneShotgun",
+    "EPalWazaID::BubbleShot",
+    "EPalWazaID::WaterBall",
+    "EPalWazaID::RockLance",
+    "EPalWazaID::HydroPump"
+  ],
+  "darkcrow": [
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::DarkBall",
+    "EPalWazaID::Unique_DarkCrow_TelePoke",
+    "EPalWazaID::DarkWave",
+    "EPalWazaID::GhostFlame",
+    "EPalWazaID::ShadowBall",
+    "EPalWazaID::DarkLaser"
+  ],
+  "lizardman": [
+    "EPalWazaID::PoisonShot",
+    "EPalWazaID::DarkBall",
+    "EPalWazaID::DarkWave",
+    "EPalWazaID::GhostFlame",
+    "EPalWazaID::ShadowBall",
+    "EPalWazaID::Flamethrower",
+    "EPalWazaID::DarkLaser"
+  ],
+  "lizardman_fire": [
+    "EPalWazaID::FireBlast",
+    "EPalWazaID::PoisonShot",
+    "EPalWazaID::FireSeed",
+    "EPalWazaID::Flamethrower",
+    "EPalWazaID::FlareTornado",
+    "EPalWazaID::Inferno",
+    "EPalWazaID::FireBall"
+  ],
+  "werewolf": [
+    "EPalWazaID::DarkBall",
+    "EPalWazaID::Unique_Werewolf_Scratch",
+    "EPalWazaID::DarkWave",
+    "EPalWazaID::IceBlade",
+    "EPalWazaID::GhostFlame",
+    "EPalWazaID::ShadowBall",
+    "EPalWazaID::DarkLaser"
+  ],
+  "eagle": [
+    "EPalWazaID::Unique_Eagle_GlidingNail",
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::MudShot",
+    "EPalWazaID::WindCutter",
+    "EPalWazaID::SandTornado",
+    "EPalWazaID::GrassTornado",
+    "EPalWazaID::HyperBeam"
+  ],
+  "robinhood": [
+    "EPalWazaID::WindCutter",
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::Unique_RobinHood_BowSnipe",
+    "EPalWazaID::SeedMine",
+    "EPalWazaID::GrassTornado",
+    "EPalWazaID::RootAttack",
+    "EPalWazaID::SolarBeam"
+  ],
+  "robinhood_ground": [
+    "EPalWazaID::MudShot",
+    "EPalWazaID::WindCutter",
+    "EPalWazaID::Unique_RobinHood_BowSnipe",
+    "EPalWazaID::StoneShotgun",
+    "EPalWazaID::SandTornado",
+    "EPalWazaID::SolarBeam",
+    "EPalWazaID::RockLance"
+  ],
+  "gorilla": [
+    "EPalWazaID::MudShot",
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::Unique_Gorilla_GroundPunch",
+    "EPalWazaID::StoneShotgun",
+    "EPalWazaID::SeedMachinegun",
+    "EPalWazaID::PowerBall",
+    "EPalWazaID::HyperBeam"
+  ],
+  "soldierbee": [
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::WindCutter",
+    "EPalWazaID::SelfDestruct_Bee",
+    "EPalWazaID::PoisonShot",
+    "EPalWazaID::AcidRain",
+    "EPalWazaID::GrassTornado",
+    "EPalWazaID::SolarBeam"
+  ],
+  "queenbee": [
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::WindCutter",
+    "EPalWazaID::PoisonShot",
+    "EPalWazaID::Unique_QueenBee_SpinLance",
+    "EPalWazaID::GrassTornado",
+    "EPalWazaID::RootAttack",
+    "EPalWazaID::SolarBeam"
+  ],
+  "naughtycat": [
+    "EPalWazaID::MudShot",
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::Unique_NaughtyCat_CatPress",
+    "EPalWazaID::StoneShotgun",
+    "EPalWazaID::ThrowRock",
+    "EPalWazaID::PowerBall",
+    "EPalWazaID::HyperBeam"
+  ],
+  "mopbaby": [
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::IceMissile",
+    "EPalWazaID::IceBlade",
+    "EPalWazaID::PowerBall",
+    "EPalWazaID::BlizzardLance",
+    "EPalWazaID::FrostBreath",
+    "EPalWazaID::IcicleThrow"
+  ],
+  "mopking": [
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::IceMissile",
+    "EPalWazaID::IceBlade",
+    "EPalWazaID::BlizzardLance",
+    "EPalWazaID::FrostBreath",
+    "EPalWazaID::HyperBeam",
+    "EPalWazaID::IcicleThrow"
+  ],
+  "weaseldragon": [
+    "EPalWazaID::IceMissile",
+    "EPalWazaID::DragonCanon",
+    "EPalWazaID::DragonWave",
+    "EPalWazaID::IceBlade",
+    "EPalWazaID::DragonBreath",
+    "EPalWazaID::FrostBreath",
+    "EPalWazaID::DragonMeteor"
+  ],
+  "kirin": [
+    "EPalWazaID::SpreadPulse",
+    "EPalWazaID::ElecWave",
+    "EPalWazaID::LockonLaser",
+    "EPalWazaID::LineThunder",
+    "EPalWazaID::ThreeThunder",
+    "EPalWazaID::LightningStrike",
+    "EPalWazaID::Thunderbolt"
+  ],
+  "icefox": [
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::IceMissile",
+    "EPalWazaID::IceBlade",
+    "EPalWazaID::GhostFlame",
+    "EPalWazaID::BlizzardLance",
+    "EPalWazaID::FrostBreath",
+    "EPalWazaID::IcicleThrow"
+  ],
+  "firekirin": [
+    "EPalWazaID::MudShot",
+    "EPalWazaID::FireBlast",
+    "EPalWazaID::FireSeed",
+    "EPalWazaID::FlareArrow",
+    "EPalWazaID::Unique_FireKirin_Tackle",
+    "EPalWazaID::Inferno",
+    "EPalWazaID::FireBall"
+  ],
+  "firekirin_dark": [
+    "EPalWazaID::FireBlast",
+    "EPalWazaID::DarkWave",
+    "EPalWazaID::Flamethrower",
+    "EPalWazaID::GhostFlame",
+    "EPalWazaID::Unique_FireKirin_Dark_DarkTossin",
+    "EPalWazaID::Inferno",
+    "EPalWazaID::DarkLaser"
+  ],
+  "icedeer": [
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::IceMissile",
+    "EPalWazaID::IceBlade",
+    "EPalWazaID::Unique_IceDeer_IceHorn",
+    "EPalWazaID::BlizzardLance",
+    "EPalWazaID::FrostBreath",
+    "EPalWazaID::IcicleThrow"
+  ],
+  "thunderdog": [
+    "EPalWazaID::MudShot",
+    "EPalWazaID::ElecWave",
+    "EPalWazaID::SpreadPulse",
+    "EPalWazaID::StoneShotgun",
+    "EPalWazaID::ThunderBall",
+    "EPalWazaID::LineThunder",
+    "EPalWazaID::Thunderbolt"
+  ],
+  "amaterasuwolf": [
+    "EPalWazaID::FireBlast",
+    "EPalWazaID::FireSeed",
+    "EPalWazaID::GhostFlame",
+    "EPalWazaID::Unique_AmaterasuWolf_FireCharge",
+    "EPalWazaID::FlareTornado",
+    "EPalWazaID::Inferno",
+    "EPalWazaID::FireBall"
+  ],
+  "raijindaughter": [
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::ElecWave",
+    "EPalWazaID::AcidRain",
+    "EPalWazaID::LineThunder",
+    "EPalWazaID::ThreeThunder",
+    "EPalWazaID::LightningStrike",
+    "EPalWazaID::Thunderbolt"
+  ],
+  "mutant": [
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::IceBlade",
+    "EPalWazaID::ThunderFunnel",
+    "EPalWazaID::PowerBall",
+    "EPalWazaID::IcicleThrow",
+    "EPalWazaID::HyperBeam"
+  ],
+  "flowerdinosaur": [
+    "EPalWazaID::WindCutter",
+    "EPalWazaID::Unique_FlowerDinosaur_Whip",
+    "EPalWazaID::DragonWave",
+    "EPalWazaID::SeedMine",
+    "EPalWazaID::DragonBreath",
+    "EPalWazaID::RootAttack",
+    "EPalWazaID::SolarBeam"
+  ],
+  "flowerdinosaur_electric": [
+    "EPalWazaID::ElecWave",
+    "EPalWazaID::ThunderFunnel",
+    "EPalWazaID::Unique_FlowerDinosaur_Whip",
+    "EPalWazaID::DragonBreath",
+    "EPalWazaID::ThreeThunder",
+    "EPalWazaID::LightningStrike",
+    "EPalWazaID::Thunderbolt"
+  ],
+  "serpent": [
+    "EPalWazaID::AquaJet",
+    "EPalWazaID::DragonCanon",
+    "EPalWazaID::WaterGun",
+    "EPalWazaID::BubbleShot",
+    "EPalWazaID::DragonWave",
+    "EPalWazaID::DragonBreath",
+    "EPalWazaID::HydroPump"
+  ],
+  "serpent_ground": [
+    "EPalWazaID::MudShot",
+    "EPalWazaID::DragonCanon",
+    "EPalWazaID::StoneShotgun",
+    "EPalWazaID::ThrowRock",
+    "EPalWazaID::SandTornado",
+    "EPalWazaID::DragonBreath",
+    "EPalWazaID::RockLance"
+  ],
+  "ghostbeast": [
+    "EPalWazaID::FireBlast",
+    "EPalWazaID::DarkBall",
+    "EPalWazaID::FlareArrow",
+    "EPalWazaID::DarkWave",
+    "EPalWazaID::GhostFlame",
+    "EPalWazaID::ShadowBall",
+    "EPalWazaID::DarkLaser"
+  ],
+  "drillgame": [
+    "EPalWazaID::WaterGun",
+    "EPalWazaID::StoneShotgun",
+    "EPalWazaID::Unique_DrillGame_ShellAttack",
+    "EPalWazaID::ThrowRock",
+    "EPalWazaID::SandTornado",
+    "EPalWazaID::WaterBall",
+    "EPalWazaID::RockLance"
+  ],
+  "catbat": [
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::PoisonShot",
+    "EPalWazaID::DarkBall",
+    "EPalWazaID::DarkWave",
+    "EPalWazaID::GhostFlame",
+    "EPalWazaID::ShadowBall",
+    "EPalWazaID::DarkLaser"
+  ],
+  "pinklizard": [
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::PoisonShot",
+    "EPalWazaID::DarkWave",
+    "EPalWazaID::AcidRain",
+    "EPalWazaID::PowerBall",
+    "EPalWazaID::SelfDestruct",
+    "EPalWazaID::HyperBeam"
+  ],
+  "lavagirl": [
+    "EPalWazaID::FireBlast",
+    "EPalWazaID::FireSeed",
+    "EPalWazaID::FlareArrow",
+    "EPalWazaID::GhostFlame",
+    "EPalWazaID::FlareTornado",
+    "EPalWazaID::Inferno",
+    "EPalWazaID::FireBall"
+  ],
+  "birddragon": [
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::FireBlast",
+    "EPalWazaID::FireSeed",
+    "EPalWazaID::Flamethrower",
+    "EPalWazaID::ShadowBall",
+    "EPalWazaID::FireBall",
+    "EPalWazaID::DarkLaser"
+  ],
+  "birddragon_ice": [
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::IceMissile",
+    "EPalWazaID::IceBlade",
+    "EPalWazaID::FrostBreath",
+    "EPalWazaID::ShadowBall",
+    "EPalWazaID::IcicleThrow",
+    "EPalWazaID::DarkLaser"
+  ],
+  "ronin": [
+    "EPalWazaID::FireBlast",
+    "EPalWazaID::WindCutter",
+    "EPalWazaID::IceBlade",
+    "EPalWazaID::Unique_Ronin_Iai",
+    "EPalWazaID::Flamethrower",
+    "EPalWazaID::LightningStrike",
+    "EPalWazaID::Inferno"
+  ],
+  "thunderbird": [
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::SpreadPulse",
+    "EPalWazaID::ElecWave",
+    "EPalWazaID::LineThunder",
+    "EPalWazaID::ThreeThunder",
+    "EPalWazaID::SandTornado",
+    "EPalWazaID::Thunderbolt"
+  ],
+  "redarmorbird": [
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::FireSeed",
+    "EPalWazaID::FlareArrow",
+    "EPalWazaID::SandTornado",
+    "EPalWazaID::FlareTornado",
+    "EPalWazaID::Flamethrower",
+    "EPalWazaID::FireBall"
+  ],
+  "catmage": [
+    "EPalWazaID::FireBlast",
+    "EPalWazaID::DarkBall",
+    "EPalWazaID::FlareArrow",
+    "EPalWazaID::DarkWave",
+    "EPalWazaID::GhostFlame",
+    "EPalWazaID::ShadowBall",
+    "EPalWazaID::DarkLaser"
+  ],
+  "foxmage": [
+    "EPalWazaID::FireBlast",
+    "EPalWazaID::FireSeed",
+    "EPalWazaID::FlareArrow",
+    "EPalWazaID::GhostFlame",
+    "EPalWazaID::FlareTornado",
+    "EPalWazaID::FireBall",
+    "EPalWazaID::DragonMeteor"
+  ],
+  "grassrabbitman": [
+    "EPalWazaID::WindCutter",
+    "EPalWazaID::ThrowRock",
+    "EPalWazaID::SeedMachinegun",
+    "EPalWazaID::StoneShotgun",
+    "EPalWazaID::GrassTornado",
+    "EPalWazaID::RootAttack",
+    "EPalWazaID::SolarBeam"
+  ],
+  "violetfairy": [
+    "EPalWazaID::PoisonFog",
+    "EPalWazaID::WindCutter",
+    "EPalWazaID::PoisonShot",
+    "EPalWazaID::SeedMine",
+    "EPalWazaID::GrassTornado",
+    "EPalWazaID::ShadowBall",
+    "EPalWazaID::SolarBeam"
+  ],
+  "whitemoth": [
+    "EPalWazaID::IceMissile",
+    "EPalWazaID::IceBlade",
+    "EPalWazaID::BlizzardLance",
+    "EPalWazaID::FrostBreath",
+    "EPalWazaID::GhostFlame",
+    "EPalWazaID::WaterBall",
+    "EPalWazaID::IcicleThrow"
+  ],
+  "fairydragon": [
+    "EPalWazaID::DragonCanon",
+    "EPalWazaID::DragonWave",
+    "EPalWazaID::FlareArrow",
+    "EPalWazaID::Unique_FairyDragon_FairyTornado",
+    "EPalWazaID::DragonBreath",
+    "EPalWazaID::HyperBeam",
+    "EPalWazaID::DragonMeteor"
+  ],
+  "fairydragon_water": [
+    "EPalWazaID::WaterGun",
+    "EPalWazaID::DragonCanon",
+    "EPalWazaID::DragonWave",
+    "EPalWazaID::Unique_FairyDragon_FairyTornado",
+    "EPalWazaID::AcidRain",
+    "EPalWazaID::HydroPump",
+    "EPalWazaID::DragonMeteor"
+  ],
+  "kelpie": [
+    "EPalWazaID::AquaJet",
+    "EPalWazaID::DragonCanon",
+    "EPalWazaID::WaterGun",
+    "EPalWazaID::BubbleShot",
+    "EPalWazaID::PowerBall",
+    "EPalWazaID::WaterBall",
+    "EPalWazaID::HydroPump"
+  ],
+  "kelpie_fire": [
+    "EPalWazaID::FireBlast",
+    "EPalWazaID::DragonCanon",
+    "EPalWazaID::FireSeed",
+    "EPalWazaID::FlareArrow",
+    "EPalWazaID::DragonWave",
+    "EPalWazaID::Flamethrower",
+    "EPalWazaID::FireBall"
+  ],
+  "bluedragon": [
+    "EPalWazaID::WaterGun",
+    "EPalWazaID::DragonCanon",
+    "EPalWazaID::BubbleShot",
+    "EPalWazaID::DragonWave",
+    "EPalWazaID::DragonBreath",
+    "EPalWazaID::HydroPump",
+    "EPalWazaID::DragonMeteor"
+  ],
+  "whitetiger": [
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::IceMissile",
+    "EPalWazaID::ThrowRock",
+    "EPalWazaID::IceBlade",
+    "EPalWazaID::BlizzardLance",
+    "EPalWazaID::FrostBreath",
+    "EPalWazaID::IcicleThrow"
+  ],
+  "manticore": [
+    "EPalWazaID::FireBlast",
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::FlareArrow",
+    "EPalWazaID::Flamethrower",
+    "EPalWazaID::Inferno",
+    "EPalWazaID::FireBall",
+    "EPalWazaID::HyperBeam"
+  ],
+  "manticore_dark": [
+    "EPalWazaID::DarkWave",
+    "EPalWazaID::FlareArrow",
+    "EPalWazaID::Flamethrower",
+    "EPalWazaID::GhostFlame",
+    "EPalWazaID::Inferno",
+    "EPalWazaID::FireBall",
+    "EPalWazaID::DarkLaser"
+  ],
+  "lazydragon": [
+    "EPalWazaID::DragonCanon",
+    "EPalWazaID::WaterGun",
+    "EPalWazaID::DragonWave",
+    "EPalWazaID::BubbleShot",
+    "EPalWazaID::DragonBreath",
+    "EPalWazaID::WaterBall",
+    "EPalWazaID::DragonMeteor"
+  ],
+  "lazydragon_electric": [
+    "EPalWazaID::SpreadPulse",
+    "EPalWazaID::DragonCanon",
+    "EPalWazaID::ElecWave",
+    "EPalWazaID::LineThunder",
+    "EPalWazaID::DragonBreath",
+    "EPalWazaID::LightningStrike",
+    "EPalWazaID::Thunderbolt"
+  ],
+  "sakurasaurus": [
+    "EPalWazaID::WindCutter",
+    "EPalWazaID::MudShot",
+    "EPalWazaID::Unique_SakuraSaurus_SideTackle",
+    "EPalWazaID::SeedMine",
+    "EPalWazaID::GrassTornado",
+    "EPalWazaID::RootAttack",
+    "EPalWazaID::SolarBeam"
+  ],
+  "sakurasaurus_water": [
+    "EPalWazaID::WaterGun",
+    "EPalWazaID::BubbleShot",
+    "EPalWazaID::Unique_SakuraSaurus_SideTackle",
+    "EPalWazaID::SeedMine",
+    "EPalWazaID::RootAttack",
+    "EPalWazaID::WaterBall",
+    "EPalWazaID::HydroPump"
+  ],
+  "flowerdoll": [
+    "EPalWazaID::WindCutter",
+    "EPalWazaID::WaterGun",
+    "EPalWazaID::SeedMachinegun",
+    "EPalWazaID::BubbleShot",
+    "EPalWazaID::GrassTornado",
+    "EPalWazaID::RootAttack",
+    "EPalWazaID::SolarBeam"
+  ],
+  "volcanicmonster": [
+    "EPalWazaID::FireBlast",
+    "EPalWazaID::StoneShotgun",
+    "EPalWazaID::ThrowRock",
+    "EPalWazaID::Flamethrower",
+    "EPalWazaID::Unique_VolcanicMonster_MagmaAttack",
+    "EPalWazaID::Inferno",
+    "EPalWazaID::RockLance"
+  ],
+  "volcanicmonster_ice": [
+    "EPalWazaID::IceMissile",
+    "EPalWazaID::StoneShotgun",
+    "EPalWazaID::BlizzardLance",
+    "EPalWazaID::FrostBreath",
+    "EPalWazaID::Unique_VolcanicMonster_Ice_IceAttack",
+    "EPalWazaID::IcicleThrow",
+    "EPalWazaID::RockLance"
+  ],
+  "kingalpaca": [
+    "EPalWazaID::MudShot",
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::PowerBall",
+    "EPalWazaID::Unique_KingAlpaca_BodyPress",
+    "EPalWazaID::ThreeThunder",
+    "EPalWazaID::RockLance",
+    "EPalWazaID::HyperBeam"
+  ],
+  "kingalpaca_ice": [
+    "EPalWazaID::IceMissile",
+    "EPalWazaID::IceBlade",
+    "EPalWazaID::BlizzardLance",
+    "EPalWazaID::Unique_KingAlpaca_BodyPress",
+    "EPalWazaID::FrostBreath",
+    "EPalWazaID::WaterBall",
+    "EPalWazaID::IcicleThrow"
+  ],
+  "grassmammoth": [
+    "EPalWazaID::MudShot",
+    "EPalWazaID::SeedMachinegun",
+    "EPalWazaID::PowerBall",
+    "EPalWazaID::GrassTornado",
+    "EPalWazaID::Unique_Grassmammoth_Earthquake",
+    "EPalWazaID::RootAttack",
+    "EPalWazaID::SolarBeam"
+  ],
+  "grassmammoth_ice": [
+    "EPalWazaID::ThrowRock",
+    "EPalWazaID::IceBlade",
+    "EPalWazaID::PowerBall",
+    "EPalWazaID::BlizzardLance",
+    "EPalWazaID::Unique_Grassmammoth_Earthquake",
+    "EPalWazaID::FrostBreath",
+    "EPalWazaID::IcicleThrow"
+  ],
+  "yeti": [
+    "EPalWazaID::IceMissile",
+    "EPalWazaID::WindCutter",
+    "EPalWazaID::IceBlade",
+    "EPalWazaID::BlizzardLance",
+    "EPalWazaID::FrostBreath",
+    "EPalWazaID::IcicleThrow",
+    "EPalWazaID::SolarBeam"
+  ],
+  "yeti_grass": [
+    "EPalWazaID::WindCutter",
+    "EPalWazaID::WaterGun",
+    "EPalWazaID::SeedMine",
+    "EPalWazaID::GrassTornado",
+    "EPalWazaID::RootAttack",
+    "EPalWazaID::WaterBall",
+    "EPalWazaID::SolarBeam"
+  ],
+  "herculesbeetle": [
+    "EPalWazaID::WindCutter",
+    "EPalWazaID::SeedMachinegun",
+    "EPalWazaID::StoneShotgun",
+    "EPalWazaID::ThrowRock",
+    "EPalWazaID::Unique_HerculesBeetle_BeetleTackle",
+    "EPalWazaID::RockLance",
+    "EPalWazaID::SolarBeam"
+  ],
+  "fengyundeeper": [
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::WaterGun",
+    "EPalWazaID::Unique_FengyunDeeper_CloudTempest",
+    "EPalWazaID::AcidRain",
+    "EPalWazaID::WaterBall",
+    "EPalWazaID::IcicleThrow",
+    "EPalWazaID::HyperBeam"
+  ],
+  "catvampire": [
+    "EPalWazaID::PoisonShot",
+    "EPalWazaID::DarkBall",
+    "EPalWazaID::DarkWave",
+    "EPalWazaID::GhostFlame",
+    "EPalWazaID::ShadowBall",
+    "EPalWazaID::Inferno",
+    "EPalWazaID::DarkLaser"
+  ],
+  "skydragon": [
+    "EPalWazaID::DragonCanon",
+    "EPalWazaID::FireSeed",
+    "EPalWazaID::AcidRain",
+    "EPalWazaID::DragonBreath",
+    "EPalWazaID::GrassTornado",
+    "EPalWazaID::WaterBall",
+    "EPalWazaID::DragonMeteor"
+  ],
+  "kingbahamut": [
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::FireBlast",
+    "EPalWazaID::StoneShotgun",
+    "EPalWazaID::Flamethrower",
+    "EPalWazaID::Inferno",
+    "EPalWazaID::FireBall",
+    "EPalWazaID::RockLance"
+  ],
+  "hadesbird": [
+    "EPalWazaID::FireSeed",
+    "EPalWazaID::DarkBall",
+    "EPalWazaID::DarkWave",
+    "EPalWazaID::FlareTornado",
+    "EPalWazaID::GhostFlame",
+    "EPalWazaID::ShadowBall",
+    "EPalWazaID::DarkLaser"
+  ],
+  "blackmetaldragon": [
+    "EPalWazaID::DragonCanon",
+    "EPalWazaID::GhostFlame",
+    "EPalWazaID::DragonWave",
+    "EPalWazaID::ShadowBall",
+    "EPalWazaID::DragonBreath",
+    "EPalWazaID::DarkLaser",
+    "EPalWazaID::DragonMeteor"
+  ],
+  "darkscorpion": [
+    "EPalWazaID::MudShot",
+    "EPalWazaID::PoisonShot",
+    "EPalWazaID::DarkWave",
+    "EPalWazaID::ThrowRock",
+    "EPalWazaID::ShadowBall",
+    "EPalWazaID::RockLance",
+    "EPalWazaID::DarkLaser"
+  ],
+  "anubis": [
+    "EPalWazaID::StoneShotgun",
+    "EPalWazaID::PowerBall",
+    "EPalWazaID::SandTornado",
+    "EPalWazaID::Unique_Anubis_LowRoundKick",
+    "EPalWazaID::Unique_Anubis_Tackle",
+    "EPalWazaID::Unique_Anubis_GroundPunch",
+    "EPalWazaID::RockLance"
+  ],
+  "umihebi": [
+    "EPalWazaID::WaterGun",
+    "EPalWazaID::DragonCanon",
+    "EPalWazaID::DragonBreath",
+    "EPalWazaID::WaterBall",
+    "EPalWazaID::ThreeThunder",
+    "EPalWazaID::HydroPump",
+    "EPalWazaID::DragonMeteor"
+  ],
+  "umihebi_fire": [
+    "EPalWazaID::FireBlast",
+    "EPalWazaID::DragonCanon",
+    "EPalWazaID::FlareTornado",
+    "EPalWazaID::Flamethrower",
+    "EPalWazaID::ThreeThunder",
+    "EPalWazaID::FireBall",
+    "EPalWazaID::DragonMeteor"
+  ],
+  "suzaku": [
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::FireBlast",
+    "EPalWazaID::FireSeed",
+    "EPalWazaID::FlareArrow",
+    "EPalWazaID::Flamethrower",
+    "EPalWazaID::FlareTornado",
+    "EPalWazaID::FireBall"
+  ],
+  "suzaku_water": [
+    "EPalWazaID::AquaJet",
+    "EPalWazaID::IceMissile",
+    "EPalWazaID::WaterGun",
+    "EPalWazaID::FrostBreath",
+    "EPalWazaID::WaterBall",
+    "EPalWazaID::IcicleThrow",
+    "EPalWazaID::HydroPump"
+  ],
+  "elecpanda": [
+    "EPalWazaID::SpreadPulse",
+    "EPalWazaID::ElecWave",
+    "EPalWazaID::Unique_ElecPanda_ElecScratch",
+    "EPalWazaID::LineThunder",
+    "EPalWazaID::ThreeThunder",
+    "EPalWazaID::LightningStrike",
+    "EPalWazaID::Thunderbolt"
+  ],
+  "lilyqueen": [
+    "EPalWazaID::WindCutter",
+    "EPalWazaID::SeedMachinegun",
+    "EPalWazaID::SeedMine",
+    "EPalWazaID::WaterBall",
+    "EPalWazaID::GrassTornado",
+    "EPalWazaID::RootAttack",
+    "EPalWazaID::SolarBeam"
+  ],
+  "lilyqueen_dark": [
+    "EPalWazaID::DarkBall",
+    "EPalWazaID::IceBlade",
+    "EPalWazaID::DarkWave",
+    "EPalWazaID::FrostBreath",
+    "EPalWazaID::ShadowBall",
+    "EPalWazaID::IcicleThrow",
+    "EPalWazaID::DarkLaser"
+  ],
+  "horus": [
+    "EPalWazaID::FireBlast",
+    "EPalWazaID::FlareArrow",
+    "EPalWazaID::FireSeed",
+    "EPalWazaID::Flamethrower",
+    "EPalWazaID::Unique_Horus_FlareBird",
+    "EPalWazaID::Inferno",
+    "EPalWazaID::FireBall"
+  ],
+  "thunderdragonman": [
+    "EPalWazaID::Unique_ThunderDragonMan_ThunderSwordAttack",
+    "EPalWazaID::LightningStrike",
+    "EPalWazaID::SpreadPulse",
+    "EPalWazaID::DragonBreath",
+    "EPalWazaID::LineThunder",
+    "EPalWazaID::ThreeThunder",
+    "EPalWazaID::Thunderbolt"
+  ],
+  "blackgriffon": [
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::DarkBall",
+    "EPalWazaID::DarkWave",
+    "EPalWazaID::GhostFlame",
+    "EPalWazaID::ShadowBall",
+    "EPalWazaID::Unique_BlackGriffon_TackleLaser",
+    "EPalWazaID::DarkLaser"
+  ],
+  "saintcentaur": [
+    "EPalWazaID::PowerShot",
+    "EPalWazaID::IceMissile",
+    "EPalWazaID::BlizzardLance",
+    "EPalWazaID::PowerBall",
+    "EPalWazaID::IcicleThrow",
+    "EPalWazaID::Unique_SaintCentaur_OneSpearRushes",
+    "EPalWazaID::HyperBeam"
+  ],
+  "blackcentaur": [
+    "EPalWazaID::DarkWave",
+    "EPalWazaID::FireSeed",
+    "EPalWazaID::GhostFlame",
+    "EPalWazaID::ShadowBall",
+    "EPalWazaID::RockLance",
+    "EPalWazaID::Unique_BlackCentaur_TwoSpearRushes",
+    "EPalWazaID::DarkLaser"
+  ],
+  "icehorse": [
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::IceMissile",
+    "EPalWazaID::IceBlade",
+    "EPalWazaID::BlizzardLance",
+    "EPalWazaID::Unique_IceHorse_IceBladeAttack",
+    "EPalWazaID::FrostBreath",
+    "EPalWazaID::IcicleThrow"
+  ],
+  "icehorse_dark": [
+    "EPalWazaID::AirCanon",
+    "EPalWazaID::DarkBall",
+    "EPalWazaID::DarkWave",
+    "EPalWazaID::GhostFlame",
+    "EPalWazaID::Unique_IceHorse_IceBladeAttack",
+    "EPalWazaID::ShadowBall",
+    "EPalWazaID::DarkLaser"
+  ],
+  "jetdragon": [
+    "EPalWazaID::FireSeed",
+    "EPalWazaID::DragonWave",
+    "EPalWazaID::FlareTornado",
+    "EPalWazaID::DragonBreath",
+    "EPalWazaID::Unique_JetDragon_JumpBeam",
+    "EPalWazaID::FireBall",
+    "EPalWazaID::DragonMeteor"
+  ]
+}
