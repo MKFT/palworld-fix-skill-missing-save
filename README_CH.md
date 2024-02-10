@@ -12,6 +12,11 @@
 > [!WARNING]
 > 請確保你有備份紀錄檔案
 
+### Windows GUI
+
+按住`Level.sav.json`拖曳到你想要使用的模式的cmd`fix_skill_{MODE}.cmd`
+
+### Terminal
 ```shell
 python3 ./fix_skill_missing.py -f YOUR_JSON_PATH -m MODE
 

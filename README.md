@@ -8,10 +8,15 @@ ENGLISH / [中文](./README_CH.md)
 - [palworld-save-tools](https://github.com/cheahjs/palworld-save-tools)
 
 ## Usage
-Use `palworld-save-tools` to get the Level.sav.json file
+Use `palworld-save-tools` to get the `Level.sav.json` file
 > [!WARNING]
 > ALWAYS MAKE SURE TO BACKUP YOUR SAVE FILES
 
+### Windows GUI
+
+Drag and drop the `Level.sav.json` file into `fix_skill_{MODE}.cmd` for the mode you want to run.
+
+### Terminal
 ```shell
 python3 ./fix_skill_missing.py -f YOUR_JSON_PATH -m MODE
 
