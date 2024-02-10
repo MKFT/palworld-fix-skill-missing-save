@@ -98,7 +98,7 @@ class FixSkillMissing():
 
         print("writing json file.")
         with open("./Level_new.sav.json", "w") as fd:
-            json.dump(self.level_sav, fd, ensure_ascii=False, indent=2)
+            json.dump(self.level_sav, fd, indent=2)
         pass
 
         print("Done.")
