@@ -53,16 +53,16 @@ class FixSkillMissing():
         for pal_data in self.pals_data:
             index += 1
             print(f'processing... {index}/{size}   {pal_data["key"]["InstanceId"]["value"]}')
-            if "IsPlayer" in pal_data["value"]["RawData"]["value"]["object"]["SaveParameter"]["value"]:
+            try:
+                pal_mastered_skill = pal_data["value"]["RawData"]["value"]["object"]["SaveParameter"]["value"]
+                pal_name = pal_data["value"]["RawData"]["value"]["object"]["SaveParameter"]["value"]["CharacterID"]["value"]
+                pal_name = pal_name.lower()
+                if pal_name.startswith("boss"):
+                    pal_name = pal_name.split("boss_")[1]
+                if pal_name not in self.skill_tree_list:
+                    continue
+            except:
                 continue
-            if "UniqueNPCID" in pal_data["value"]["RawData"]["value"]["object"]["SaveParameter"]["value"]:
-                continue
-
-            pal_mastered_skill = pal_data["value"]["RawData"]["value"]["object"]["SaveParameter"]["value"]
-            pal_name = pal_data["value"]["RawData"]["value"]["object"]["SaveParameter"]["value"]["CharacterID"]["value"]
-            pal_name = pal_name.lower()
-            if pal_name.startswith("boss"):
-                pal_name = pal_name.split("boss_")[1]
 
             if mode == "base":
                 pal_mastered_skill["MasteredWaza"] = self.build_mastered_skill(copy.deepcopy(self.skill_tree_list[pal_name]))
