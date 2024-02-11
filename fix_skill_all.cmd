@@ -19,7 +19,7 @@ for %%A in (python python3 py) do (
         echo Found Python at %%A
         echo Python version:
         %%A --version
-        %%A fix_skill_missing.py -f %~1 -m all
+        %%A fix_skill_missing.py -f "%~1" -m all
         goto :Found
     )
 )
